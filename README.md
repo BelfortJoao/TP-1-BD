@@ -10,11 +10,6 @@ O Trabalho Prático 1 tem como objetivo praticar os conceitos de banco de dados 
 
 The Practical Work 1 aims to practice database concepts using MySQL Workbench. Databases, tables, relationships, and SQL queries will be created to exercise the knowledge acquired in the discipline.
 
-## Arquivos / Files
-
-- `script.sql`: Script SQL contendo a criação do banco de dados e outras operações.
-- `script.sql`: SQL script containing the creation of the database and other operations.
-
 ## Como Contribuir / How to Contribute
 
 Se deseja contribuir com este projeto, siga estas etapas:
